@@ -7,7 +7,7 @@ returns short answers that are grounded in the filing and carry a page-level
 citation.
 
 - **Source document:** `data/2022_Q3_AAPL.pdf` (28 pages; from the Docugami KG-RAG dataset)
-- **Methodology write-up:** `docs/approach_writeup.pdf`
+- **Methodology write-up:** `docs/Approach_and_Methodology.pdf`
 - **Interface:** Streamlit web app
 
 ---
