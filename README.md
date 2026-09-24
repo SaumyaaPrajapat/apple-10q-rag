@@ -171,8 +171,7 @@ rag-pipeline/
 │   └── 2022_Q3_AAPL.pdf          # Source filing
 │   (chroma_db/, extracted_images/ are generated and git-ignored)
 ├── docs/
-│   ├── approach_writeup.md       # Methodology write-up (source)
-│   └── approach_writeup.pdf      # Methodology write-up (submission PDF)
+│   └── Approach_and_Methodology.pdf      # Methodology write-up
 ├── evaluation/
 │   ├── questions.json            # 25 labeled questions
 │   ├── evaluate.py               # Retrieval metrics (Hit@k, MRR)
