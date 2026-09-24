@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Q01",
+    "question": "What was Apple's total net sales in Q3 2022 and how does it compare to Q3 2021?",
+    "expected_answer": "$82,959 million in Q3 2022 compared with $81,434 million in Q3 2021, an increase of approximately 2%.",
+    "relevant_pages": [18]
+  },
+  {
+    "id": "Q02",
+    "question": "What was Apple's net sales and operating income in Greater China for the nine months ended June 25, 2022?",
+    "expected_answer": "Net sales were $58,730 million and operating income was $25,055 million.",
+    "relevant_pages": [16]
+  },
+  {
+    "id": "Q03",
+    "question": "How much did Apple spend on research and development in Q3 2022?",
+    "expected_answer": "$6,797 million.",
+    "relevant_pages": [4, 16, 21]
+  },
+  {
+    "id": "Q04",
+    "question": "What is the Epic Games lawsuit about?",
+    "expected_answer": "The lawsuit concerns allegations that Apple's operation of its App Store violates federal and state antitrust laws and California's unfair-competition law.",
+    "relevant_pages": [23]
+  },
+  {
+    "id": "Q05",
+    "question": "How many shares of common stock did Apple repurchase during Q3 2022, and at what average price?",
+    "expected_answer": "Apple repurchased 142,674 thousand shares during the quarter. The table reports average prices of $168.06, $148.45, and $139.06 for the three repurchase periods; it does not report one overall average price.",
+    "relevant_pages": [23]
+  },
+  {
+    "id": "Q06",
+    "question": "What was Apple's gross margin percentage for Products vs Services in Q3 2022?",
+    "expected_answer": "Products had a gross margin percentage of 34.5%, while Services had 71.5%.",
+    "relevant_pages": [20]
+  },
+  {
+    "id": "Q07",
+    "question": "What were Apple's Services net sales in Q3 2022 and Q3 2021?",
+    "expected_answer": "$19,604 million in Q3 2022 and $17,486 million in Q3 2021.",
+    "relevant_pages": [18]
+  },
+
+  {
+    "id": "Q08",
+    "question": "What were Apple's total operating expenses in Q3 2022?",
+    "expected_answer": "$12,809 million.",
+    "relevant_pages": [18]
+  },
+  {
+    "id": "Q09",
+    "question": "What was Apple's operating income in Q3 2022?",
+    "expected_answer": "$23,076 million.",
+    "relevant_pages": [4]
+  },
+  {
+    "id": "Q10",
+    "question": "What was Apple's net income in Q3 2022?",
+    "expected_answer": "$19,442 million.",
+    "relevant_pages": [18]
+  },
+  {
+    "id": "Q11",
+    "question": "What was Apple's diluted earnings per share in Q3 2022?",
+    "expected_answer": "$1.20 per diluted share.",
+    "relevant_pages": [9]
+  },
+  {
+    "id": "Q12",
+    "question": "How did Apple's total net sales change between Q3 2022 and Q3 2021?",
+    "expected_answer": "Total net sales increased from $81,434 million to $82,959 million, an increase of approximately 2%.",
+    "relevant_pages": [18]
+  },
+
+  {
+    "id": "Q13",
+    "question": "What were Apple's net sales in the Americas for the nine months ended June 25, 2022?",
+    "expected_answer": "$140,174 million.",
+    "relevant_pages": [16]
+  },
+  {
+    "id": "Q14",
+    "question": "What were Apple's net sales in Europe for the nine months ended June 25, 2022?",
+    "expected_answer": "$89,304 million.",
+    "relevant_pages": [16]
+  },
+  {
+    "id": "Q15",
+    "question": "What were Apple's net sales in Japan for the nine months ended June 25, 2022?",
+    "expected_answer": "$21,568 million.",
+    "relevant_pages": [16]
+  },
+  {
+    "id": "Q16",
+    "question": "What were Apple's net sales in the rest of Asia Pacific for the nine months ended June 25, 2022?",
+    "expected_answer": "$26,649 million.",
+    "relevant_pages": [16]
+  },
+
+  {
+    "id": "Q17",
+    "question": "What did Apple say about its supply chain and product availability during Q3 2022?",
+    "expected_answer": "Apple discussed supply constraints and their effects on its ability to meet demand for certain products.",
+    "relevant_pages": [19]
+  },
+  {
+    "id": "Q18",
+    "question": "What factors did Apple identify as affecting its gross margin?",
+    "expected_answer": "Apple discussed product and services mix, foreign exchange rates, and other factors affecting gross margin.",
+    "relevant_pages": [20]
+  },
+  {
+    "id": "Q19",
+    "question": "What was Apple's effective tax rate in Q3 2022?",
+    "expected_answer": "Apple's effective tax rate was approximately 15.7%.",
+    "relevant_pages": [22]
+  },
+  {
+    "id": "Q20",
+    "question": "What accounting basis does Apple state it uses to prepare its condensed consolidated financial statements?",
+    "expected_answer": "Apple states that its condensed consolidated financial statements are prepared in conformity with U.S. generally accepted accounting principles (GAAP).",
+    "relevant_pages": [9]
+  },
+  {
+    "id": "Q21",
+    "question": "What legal matter involving Epic Games is described in Apple's Q3 2022 10-Q?",
+    "expected_answer": "The filing describes litigation involving Epic Games concerning Apple's App Store practices and alleged violations of antitrust and unfair-competition laws.",
+    "relevant_pages": [23]
+  },
+  {
+    "id": "Q22",
+    "question": "What information does Apple provide about its common stock repurchases?",
+    "expected_answer": "Apple provides information about shares repurchased, the periods of repurchase, and the average price paid during those periods.",
+    "relevant_pages": [14, 23]
+  },
+  {
+    "id": "Q23",
+    "question": "What were Apple's Products net sales in Q3 2022 and Q3 2021?",
+    "expected_answer": "$63,355 million in Q3 2022 and $63,948 million in Q3 2021.",
+    "relevant_pages": [18]
+  },
+
+  {
+    "id": "Q24",
+    "question": "What were Apple's Products and Services gross margin percentages in Q3 2022, and what was the total gross margin percentage?",
+    "expected_answer": "Products: 34.5%; Services: 71.5%; Total: 43.3%.",
+    "relevant_pages": [20]
+  },
+  {
+    "id": "Q25",
+    "question": "What was Apple's revenue from a product category that is not reported in the Q3 2022 10-Q?",
+    "expected_answer": "The requested information is not available in the retrieved context or the filing.",
+    "relevant_pages": []
+  }
+]

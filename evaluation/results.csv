@@ -1,0 +1,26 @@
+id,question,answerable,expected_pages,hit_at_1,hit_at_3,hit_at_6,mrr,first_relevant_rank,status
+Q01,What was Apple's total net sales in Q3 2022 and how does it compare to Q3 2021?,True,18,1,1,1,1.0,1,HIT
+Q02,"What was Apple's net sales and operating income in Greater China for the nine months ended June 25, 2022?",True,16,1,1,1,1.0,1,HIT
+Q03,How much did Apple spend on research and development in Q3 2022?,True,"4,16,21",1,1,1,1.0,1,HIT
+Q04,What is the Epic Games lawsuit about?,True,23,1,1,1,1.0,1,HIT
+Q05,"How many shares of common stock did Apple repurchase during Q3 2022, and at what average price?",True,23,1,1,1,1.0,1,HIT
+Q06,What was Apple's gross margin percentage for Products vs Services in Q3 2022?,True,20,1,1,1,1.0,1,HIT
+Q07,What were Apple's Services net sales in Q3 2022 and Q3 2021?,True,18,1,1,1,1.0,1,HIT
+Q08,What were Apple's total operating expenses in Q3 2022?,True,18,0,0,1,0.1667,6,HIT
+Q09,What was Apple's operating income in Q3 2022?,True,4,0,0,0,0.0,,MISS
+Q10,What was Apple's net income in Q3 2022?,True,18,0,0,1,0.1667,6,HIT
+Q11,What was Apple's diluted earnings per share in Q3 2022?,True,9,1,1,1,1.0,1,HIT
+Q12,How did Apple's total net sales change between Q3 2022 and Q3 2021?,True,18,1,1,1,1.0,1,HIT
+Q13,"What were Apple's net sales in the Americas for the nine months ended June 25, 2022?",True,16,0,1,1,0.3333,3,HIT
+Q14,"What were Apple's net sales in Europe for the nine months ended June 25, 2022?",True,16,0,1,1,0.3333,3,HIT
+Q15,"What were Apple's net sales in Japan for the nine months ended June 25, 2022?",True,16,0,1,1,0.5,2,HIT
+Q16,"What were Apple's net sales in the rest of Asia Pacific for the nine months ended June 25, 2022?",True,16,0,1,1,0.5,2,HIT
+Q17,What did Apple say about its supply chain and product availability during Q3 2022?,True,19,1,1,1,1.0,1,HIT
+Q18,What factors did Apple identify as affecting its gross margin?,True,20,1,1,1,1.0,1,HIT
+Q19,What was Apple's effective tax rate in Q3 2022?,True,22,0,1,1,0.5,2,HIT
+Q20,What accounting basis does Apple state it uses to prepare its condensed consolidated financial statements?,True,9,1,1,1,1.0,1,HIT
+Q21,What legal matter involving Epic Games is described in Apple's Q3 2022 10-Q?,True,23,1,1,1,1.0,1,HIT
+Q22,What information does Apple provide about its common stock repurchases?,True,"14,23",1,1,1,1.0,1,HIT
+Q23,What were Apple's Products net sales in Q3 2022 and Q3 2021?,True,18,1,1,1,1.0,1,HIT
+Q24,"What were Apple's Products and Services gross margin percentages in Q3 2022, and what was the total gross margin percentage?",True,20,1,1,1,1.0,1,HIT
+Q25,What was Apple's revenue from a product category that is not reported in the Q3 2022 10-Q?,False,,,,,,,UNANSWERABLE

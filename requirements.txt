@@ -1,0 +1,24 @@
+# --- PDF parsing ---
+pdfplumber==0.11.4
+PyMuPDF==1.24.10
+
+# --- Embeddings ---
+sentence-transformers==3.0.1
+torch>=2.2.0
+
+# --- Vector store ---
+chromadb==0.5.5
+
+# --- Hybrid retrieval ---
+rank-bm25==0.2.2
+
+# --- LLM generation ---
+groq==0.11.0
+
+# --- App / interface ---
+streamlit==1.38.0
+
+# --- Utilities ---
+python-dotenv==1.0.1
+pandas==2.2.2
+tqdm==4.66.5
