@@ -66,7 +66,7 @@ Generation runs at `temperature=0` for reproducible answers.
 **Key design decisions**
 
 - **Table-aware parsing.** `pdfplumber` finds tables and converts them to clean Markdown. Tables are kept as single, unsplit chunks, and the few text lines just above a table (often its column headers, such as "Three Months Ended … 2022 2021") are attached to it.
-- **Section- and page-aware chunking.** Text is grouped by 10-Q section (`Item N.`, `Note N –`) and by page, then split into ~800-character chunks with 100 characters of overlap. Grouping by page keeps citations accurate.
+- **Section- and page-aware chunking.** Text is grouped by 10-Q section (`Item N.`, `Note N –`) and by page, then split into ~800-character chunks with 100 characters of overlap. Grouping by page preserves page metadata so generated answers can cite the source page.
 - **Hybrid retrieval.** Dense vectors capture meaning; BM25 captures exact tokens such as "Greater China" or "14,604". The two rankings are merged with **Reciprocal Rank Fusion (RRF)**. A small boost nudges table chunks up for factual financial lookups.
 - **Grounded generation.** The prompt forbids outside knowledge, requires care with periods (3-month vs 9-month, 2022 vs 2021) and units, requires an abstention message when the context lacks the answer, and requires exactly one citation.
 - **Local embeddings + hosted LLM.** Retrieval needs no paid API and is reproducible offline; only the final answer step calls Groq.
